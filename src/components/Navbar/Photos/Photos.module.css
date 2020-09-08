@@ -1,0 +1,9 @@
+.photos {
+    color: black;
+}
+
+.photos img {
+    height: 150px;
+    width: 150px;
+    padding: 20px;
+}

@@ -1,0 +1,18 @@
+.post {
+  padding: 20px;
+}
+
+.posts {
+  color: brown;
+}
+
+.textarea {
+  width: 100%;
+  min-width: 50px;
+}
+
+.button {
+  float: right;
+}
+
+ 
